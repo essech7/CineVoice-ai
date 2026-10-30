@@ -1,0 +1,6 @@
+{
+  "name": "CineVoice AI",
+  "description": "Zero-Touch Audio-to-Series Video Automation Platform with LLM Orchestration and REST API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
